@@ -2,7 +2,7 @@ title: Guhero.GitHub.com
 description: 안녕하세요 김현구입니다.
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-modernist
+theme: jekyll-theme-leap-day
 
 gems:
   - jekyll-mentions
